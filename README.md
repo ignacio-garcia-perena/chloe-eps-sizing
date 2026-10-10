@@ -4,6 +4,8 @@ Spreadsheet model for the Electrical Power System (EPS) of **ChLOE** (Chasers in
 
 ChLOE is a mission concept of three autonomous chaser spacecraft, launched on a single Falcon 9, that image, dock with and refuel Starlink V2 Mini satellites in the 550 km, 53° shell. Each team member led one subsystem. I was the **Power Lead**, and this repository contains only my part: the Power Equipment List (PEL) and the EPS sizing.
 
+![EPS architecture: solar array, battery and PCDU](images/eps_architecture.png)
+
 ## What the model does
 
 | Sheet | Content |
